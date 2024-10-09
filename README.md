@@ -13,7 +13,7 @@ This project involves the development of an airport and airline data analysis da
   - Arrival distributions with a 55.66% delay rate.
 - **Hidden Filters:** Incorporate hidden filters within the dashboard for enhanced user interaction.
 
-## dashboard Preview
+## Dashboard Preview
 ![Dashboard](https://github.com/user-attachments/assets/509cf424-980c-427a-8b53-60b35ad9c878)
 
 
