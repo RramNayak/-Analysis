@@ -13,12 +13,16 @@ This project involves the development of an airport and airline data analysis da
   - Arrival distributions with a 55.66% delay rate.
 - **Hidden Filters:** Incorporate hidden filters within the dashboard for enhanced user interaction.
 
+## dashboard Preview
+![Dashboard](https://github.com/user-attachments/assets/509cf424-980c-427a-8b53-60b35ad9c878)
+
+
 ## Project Documentation
 
 - **High-Level Design (HLD):** [HLD Document Link]
 - **Low-Level Design (LLD):** [LLD Document Link]
 - **Wireframe:** [Wireframe Document Link]
-- **Tableau Visualization:** [Link to Tableau Dashboard]
+- **Tableau Visualization:** [https://public.tableau.com/views/airportanalysis_17129232049710/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
 
 ## Getting Started
 
