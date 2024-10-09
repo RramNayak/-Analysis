@@ -24,11 +24,6 @@ This project involves the development of an airport and airline data analysis da
 
 ### Prerequisites
 
-- Tableau (version x.x or higher)
-- Python (if using scripts)
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/airport-data-analysis.git
+- Tableau
+- Python 
+- Excel 
